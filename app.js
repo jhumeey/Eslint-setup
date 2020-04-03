@@ -13,6 +13,6 @@ const sayHi = () => {
 addNums();
 sayHi();
 const anonymouFunction = () => {
-  'yes';
+  'nope';
 };
 anonymouFunction(people);
